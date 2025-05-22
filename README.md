@@ -1,2 +1,2 @@
 # M4X-P1NG
-The ultimate "network" tool. Free. Safe. Efficient.
+Use Max Ping VRS. It has the correct files
